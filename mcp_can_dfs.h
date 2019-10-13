@@ -55,12 +55,12 @@
 
 // if print debug information
 #ifndef DEBUG_EN
-#define DEBUG_EN        1
+#define DEBUG_EN        0
 #endif
 
 // Begin mt
 
-#define TIMEOUTVALUE    50
+#define TIMEOUTVALUE    250
 #define MCP_SIDH        0
 #define MCP_SIDL        1
 #define MCP_EID8        2
